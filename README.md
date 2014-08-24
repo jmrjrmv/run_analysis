@@ -44,12 +44,13 @@ a) run R console
 
 b) change to the working directory
 
-b) install package reshape2  :  install.packages("reshape2")
+c) install package reshape2  :  install.packages("reshape2")
 
-c) run script run_analysis.R  : source("run_analysis.R")
+d) run script run_analysis.R  : source("run_analysis.R")
 
 
 4 - RESULT
 =============================
 
-The result is the file "tidydataset.txt" generated in your working directory. THis file is a tidy data set containing the average of each measurement for each activity and each person.
+The result is the file "tidydataset.txt" generated in your working directory. 
+This file is a tidy data set containing the average of each measurement for each activity and each person.
