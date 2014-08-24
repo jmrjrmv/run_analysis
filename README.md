@@ -1,13 +1,13 @@
 run_analysis
 ============
 
-Using R script, generate a tidy data set from data collected from the accelerometers from the Samsung Galaxy S smartphone
+Generate a tidy data set from data collected from the accelerometers from the Samsung Galaxy S smartphone
 
 1 - INTRODUCTION
 =================
 
 This repo contains R script run_analysis.R. 
-This script creates one data set with data ollected from the accelerometers from the Samsung Galaxy S smartphone. This data concerns Human Activity Recognition Using Smartphones Dataset.
+This script creates a tidy data set with data collected from the accelerometers from the Samsung Galaxy S smartphone. This data concerns Human Activity Recognition Using Smartphones Dataset.
 The experiments have been carried out with a group of 30 subjects volunteers within an age bracket of 19-48 years. Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist. 
 
 
