@@ -19,42 +19,24 @@ The script of this repo generates a tidy data set with the average of each measu
 a) Download the data set from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip and unzip the file in your working directory
 This will create the "dataset" directory in your working directory with this following tree (figure with the main files) :
 
--dataset/
-
-  |
-  |   -UCI HAR Dataset/
-  
-  |   | 
-  |   |   -activity_labels.txt
-  
-  |   |  
-  |   |   -features.txt
-  
-  |   |   
-  |   |   -features_info.txt
-  
-  |   |     
-  |   |   -README.txt
-  
-  |   |     
-  |   |   -train/
-  
-  |   |   | 
-  |   |   |   -subject_train.txt
-  
-  |   |   |   -X_train.txt
-  
-  |   |   |   -y_train.txt
-  
-  |   |      
-  |   |   -test/
-  
-  |   |   | 
-  |   |   |   -subject_test.txt
-  
-  |   |   |   -X_test.txt
-  
-  |   |   |   -y_test.txt
+	-dataset/
+	
+		-UCI HAR Dataset/
+		
+				-activity_labels.txt
+				-features.txt
+				-features_info.txt
+				-README.txt
+				
+				-train/
+						-subject_train.txt
+						-X_train.txt
+						-y_train.txt
+						
+				-test/
+						-subject_test.txt
+						-X_test.txt
+						-y_test.txt
   
         
         
