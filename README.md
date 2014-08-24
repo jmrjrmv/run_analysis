@@ -16,7 +16,7 @@ The script of this repo generates a tidy data set with the average of each measu
 2 - BEFORE RUNNING THE SCRIPT
 =============================
 
-a) Download the data set "dataset.zip" given here ( or download it from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) 
+a) Download the data set "dataset.zip" from the Url https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 b) decompress the file in your working directory
 
