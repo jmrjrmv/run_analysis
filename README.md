@@ -16,8 +16,11 @@ The script of this repo generates a tidy data set with the average of each measu
 2 - BEFORE RUNNING THE SCRIPT
 =============================
 
-a) Download the data set from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip and unzip the file in your working directory
-This will create the "dataset" directory in your working directory with this following tree (figure with the main files) :
+a) Download the data set "dataset.zip" given here ( or download it from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) 
+
+b) decompress the file in your working directory
+
+c) A "dataset" directory is created in your working directory with this following tree (tree described here with the main files and directories) :
 
 	-dataset/
 	
@@ -41,7 +44,7 @@ This will create the "dataset" directory in your working directory with this fol
         
         
 
-File README.txt explains the purpose of the experiments and above the meaning of all the files of the dataset directory.
+File README.txt explains the meaning of all the files of the dataset directory.
 
 3 - RUN THE SCRIPT
 =============================
@@ -58,5 +61,9 @@ d) run script run_analysis.R  : source("run_analysis.R")
 4 - RESULT
 =============================
 
-The result is the file "tidydataset.txt" generated in your working directory. 
+The result is the text file "tidydataset.txt" generated in your working directory. 
 This file is a tidy data set containing the average of each measurement for each activity and each person.
+You can find its description in codeBook.md and some explanations about how it is created.
+
+Regards.
+
